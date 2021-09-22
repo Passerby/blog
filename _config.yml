@@ -21,8 +21,8 @@
 title: 思绪总有万千
 description: 思绪总有万千
 signoff: 思绪总有万千
-baseurl: "blog" # the subpath of your site, e.g. /blog
-url: "http://passerby.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "blog" # the subpath of your site, e.g. /blog
+url: "http://blog.hate.work" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
 
