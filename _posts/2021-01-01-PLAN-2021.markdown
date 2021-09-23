@@ -15,7 +15,7 @@ date: 2021-09-22 16:37:21 +0800
 | June      | 13.92%-19.2%[**Delay**]         | 1 video on bilibili [**Delay**] |
 | July      | 13.23%[**Delay**]               | 1 photo [**Delay**]             |
 | August    | 12.57%-18.8%[**Delay**]更改目标 | 1 photo [**Delay**]             |
-| September | 16.94%                          | 1 photo [**Done**]              |
+| September | 16.94%-18.1%[**Delay**]满足了   | 1 photo [**Done**]              |
 | October   | 14.34%                          | 1 photo                         |
 | November  | 13.78%                          | 1 photo                         |
 | December  | 12.23%                          | 1 video on bilibili             |
@@ -87,7 +87,7 @@ date: 2021-09-22 16:37:21 +0800
 
 - week37: 0111000 (中秋节休息)
 
-- week38: 00
+- week38: 001 (每次节假日都颓废，尽量少休息吧)
 
 ### 摄影
 
