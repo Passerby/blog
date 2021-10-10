@@ -17,7 +17,7 @@ author: Luke
 | July      | 13.23%[**Delay**]               | 1 photo [**Delay**]             |
 | August    | 12.57%-18.8%[**Delay**]更改目标 | 1 photo [**Delay**]             |
 | September | 16.94%-18.1%[**Delay**]满足了   | 1 photo [**Done**]              |
-| October   | 14.34%                          | 1 photo                         |
+| October   | 14.34%                          | 1 photo [**Done**]              |
 | November  | 13.78%                          | 1 photo                         |
 | December  | 12.23%                          | 1 video on bilibili             |
 |           |                                 |                                 |
@@ -92,7 +92,9 @@ author: Luke
 
 - week39: 0011111
 
-- week40: 001
+- week40: 0011011(看 Dota 比赛作息有点崩)
+
+- week41:
 
 ### 摄影
 
@@ -107,7 +109,7 @@ author: Luke
 - July: Delay
 - August: Delay
 - September: 🌕
-- October:
+- October: Done 和 xx、xx 街拍
 - November:
 - December:
 
@@ -151,7 +153,9 @@ author: Luke
 - week36: 1 和 xx 攀岩，和 xx 吃火锅
 - week37: 1 回家过中秋看望家人，和同学聚餐。
 - week38: 0
-- week39: 1 和 x 哥两个人吃了东北烤肉(国庆节)
+- week39: 1 和 x 哥两个人吃了东北烤肉(国庆节)，和 x 爷、x 精吃爆肚(国庆节)
+- week40: 0 在公司看比赛
+- week41:
 
 ### 工作
 
