@@ -104,7 +104,9 @@ author: Luke
 
 - week45: 1110101
 
-- week46:
+- week46: 1100110
+
+- week47: 11
 
 ### 摄影
 
@@ -170,6 +172,7 @@ author: Luke
 - week43: 1 和一大堆人过万圣节 🎃
 - week44: 1 和 xx、xx 还有一堆人去看 EDG 夺冠 🏆
 - week45: 1 给 xx 过生日和 xx 一大堆人一起做饭吃饭
+- week46: 1 和同事学急救，去 xx 家吃饭，晚上和 xx、xx 吃猫儿滩
 
 ### 工作
 
